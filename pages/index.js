@@ -23,8 +23,8 @@ export default function Home() {
         position: 'relative',
         zIndex: 1,
         //background: 'white',
-        scale: [1, 0.4, 1.1],
-        rotate: [0, 5, -5, 0],
+        scale: [1, 1.2, 1],
+        //rotate: [0, 5, -5, 0],
         transition: {
           duration: .2
         }
