@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <Layout>
         <h1 className={styles.title}>PAQUETES</h1>
+        <hr/>
         <Link href="/">
           <button type="button" className="btn btn-primary">INICIO</button>
         </Link>
